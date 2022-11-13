@@ -1,0 +1,10 @@
+C:\Users\gk304\source\repos\Server_Yeoju-First-High-School_Book_Search\Server_Yeoju-First-High-School_Book_Search\bin\Debug\Server_Yeoju-First-High-School_Book_Search.exe.config
+C:\Users\gk304\source\repos\Server_Yeoju-First-High-School_Book_Search\Server_Yeoju-First-High-School_Book_Search\bin\Debug\Server_Yeoju-First-High-School_Book_Search.exe
+C:\Users\gk304\source\repos\Server_Yeoju-First-High-School_Book_Search\Server_Yeoju-First-High-School_Book_Search\bin\Debug\Server_Yeoju-First-High-School_Book_Search.pdb
+C:\Users\gk304\source\repos\Server_Yeoju-First-High-School_Book_Search\Server_Yeoju-First-High-School_Book_Search\obj\Debug\Server_Yeoju-First-High-School_Book_Search.csproj.AssemblyReference.cache
+C:\Users\gk304\source\repos\Server_Yeoju-First-High-School_Book_Search\Server_Yeoju-First-High-School_Book_Search\obj\Debug\Server_Yeoju_First_High_School_Book_Search.Form1.resources
+C:\Users\gk304\source\repos\Server_Yeoju-First-High-School_Book_Search\Server_Yeoju-First-High-School_Book_Search\obj\Debug\Server_Yeoju_First_High_School_Book_Search.Properties.Resources.resources
+C:\Users\gk304\source\repos\Server_Yeoju-First-High-School_Book_Search\Server_Yeoju-First-High-School_Book_Search\obj\Debug\Server_Yeoju-First-High-School_Book_Search.csproj.GenerateResource.cache
+C:\Users\gk304\source\repos\Server_Yeoju-First-High-School_Book_Search\Server_Yeoju-First-High-School_Book_Search\obj\Debug\Server_Yeoju-First-High-School_Book_Search.csproj.CoreCompileInputs.cache
+C:\Users\gk304\source\repos\Server_Yeoju-First-High-School_Book_Search\Server_Yeoju-First-High-School_Book_Search\obj\Debug\Server_Yeoju-First-High-School_Book_Search.exe
+C:\Users\gk304\source\repos\Server_Yeoju-First-High-School_Book_Search\Server_Yeoju-First-High-School_Book_Search\obj\Debug\Server_Yeoju-First-High-School_Book_Search.pdb
